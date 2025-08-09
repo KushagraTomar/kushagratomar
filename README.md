@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m an AI Engineer passionate about Generative AI, Computer Vision, and LLMs, building impactful solutions from concept to deployment. <br>My work spans creating image inpainting tools with Stable Diffusion and SAM, developing deep learning models to tackle real-world challenges, and <br>crafting intelligent coding assistants using LangChain, LangGraph, and RAG pipelines.
+I’m an AI Engineer passionate about Generative AI, Computer Vision, and LLMs, building impactful solutions from concept to deployment. <br>My work spans creating image inpainting tools with Stable Diffusion and SAM, developing deep learning models to tackle real-world challenges, and crafting intelligent coding assistants using LangChain, LangGraph, and RAG pipelines.
 
 
 ## 🌐 Socials:
